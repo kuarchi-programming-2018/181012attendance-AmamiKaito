@@ -1,4 +1,4 @@
-# 181012attendance
+﻿# 181012attendance
 * # 課題
     * ## 本日10/12授業中までの課題
         * URL
